@@ -1,4 +1,4 @@
-# ![free_gobang icon](https://raw.github.com/tobegit3hub/free_gobang/master/free_gobang.ico) free_gobang
+# free_gobang ![free_gobang icon](https://raw.github.com/tobegit3hub/free_gobang/master/free_gobang.ico)
 
 ## Introduction
 
